@@ -1,0 +1,32 @@
+.image-slide {
+  max-height: 400px;
+}
+.carousel-indicators li {
+  visibility: hidden;
+}
+.carosel {
+  position: relative;
+}
+.presentation {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+.title {
+  margin: 0 auto;
+}
+.image-slide {
+  height: 90vh;
+}
+.container-titre {
+  width: 100%;
+}
+
+.button-carosel {
+  margin-top: 40px;
+}
+.big-title {
+  font-size: 3rem;
+}
