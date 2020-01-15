@@ -1,0 +1,11 @@
+@media screen and(min-width:992px) {
+}
+.add {
+  max-height: 295px !important;
+  min-height: 395px !important;
+}
+@media screen and(min-width:767px) and (max-width: 991px) {
+  .add {
+    height: 295px !important;
+  }
+}
